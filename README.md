@@ -8,9 +8,9 @@ Participation is voluntary and this is an absolutely non-commercial event, there
 
 In order to make the discussion effective, we need to limit participation to 10-12 spots, therefore you need to apply hereby and you will be notified whether you have been selected or not. The data you provide in this application form is voluntary. Selection will be based mainly on your demonstrated knowledge of machine learning and GBMs. You will increase your chances in getting accepted if you submit below a proposal for a lightning talk (7 minutes) on a GBM topic. The top 10-12 applications will be selected at the discretion of the organizers. The organizers reserve the right to cancel this event in case there are not enough qualified participants.
 
-Date: Nov 12, 2019 (Tuesday)
-Time: 1:00-4:00pm
-Venue: Budapest BI Forum at Hotel Mercure Buda
+Date: Nov 12, 2019 (Tuesday) <br>
+Time: 1:00-4:00pm <br>
+Venue: Budapest BI Forum at Hotel Mercure Buda <br>
 Ticket: FREE, no need to purchase a conference ticket (although you may still want to do that to attend the other talks of the conference)
 
 ~~Application form for the advanced workshop on GBMs with Szilard Pafka~~

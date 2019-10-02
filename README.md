@@ -1,6 +1,6 @@
 ## Advanced GBM Workshop - Budapest, Nov 2019
 
-This workshop aims to bring together experts in machine learning and in particular gradient boosting to discuss best practices for using GBM/GBDTs in business applications. Similar to http://datascience.la/xgboost-workshop-and-meetup-talk-with-tianqi-chen/
+This workshop aims to bring together experts in machine learning and in particular gradient boosting to discuss best practices for using GBM/GBDTs in business applications. Similar to http://datascience.la/xgboost-workshop-and-meetup-talk-with-tianqi-chen/ (Los Angeles, June 2016)
 
 The working language for this event and all related activities (such as this application) is English. 
 

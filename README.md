@@ -21,7 +21,7 @@ UPDATE: The DEADLINE for applying has passed, please DO NOT SUBMIT any further a
 
 If selected, you will have to subsequently confirm and agree to show up at the location and date and time indicated and to actively participate in the discussions at the workshop (bring questions, share knowledge, give lightning talk if had indicated etc).
 
-Planned agenda: 
+### Planned agenda: 
 * 1:00-1:30pm Szilard Pafka on various topics (going beyond his meetup/conference talks)
 * 1:30-1:50pm Damien Soukhavong on various performance topics
 * 1:50-2:00pm Przemyslaw Biecek on interpretability

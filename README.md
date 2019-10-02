@@ -22,7 +22,7 @@ UPDATE: The DEADLINE for applying has passed, please DO NOT SUBMIT any further a
 If selected, you will have to subsequently confirm and agree to show up at the location and date and time indicated and to actively participate in the discussions at the workshop (bring questions, share knowledge, give lightning talk if had indicated etc).
 
 Agenda:
-1:00-1:30pm Szilard Pafka various topics (going beyond his meetup/conference talks)
+1:00-1:30pm Szilard Pafka various topics (going beyond his meetup/conference talks) <br>
 1:30-1:50pm Damien Soukhavong various performance topics
 1:50-2:00pm Przemyslaw Biecek interpretability 
 2:10-2:20 pm Gergely Daroczi GBMs in production 

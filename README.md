@@ -21,14 +21,15 @@ UPDATE: The DEADLINE for applying has passed, please DO NOT SUBMIT any further a
 
 If selected, you will have to subsequently confirm and agree to show up at the location and date and time indicated and to actively participate in the discussions at the workshop (bring questions, share knowledge, give lightning talk if had indicated etc).
 
-Agenda: <br>
-1:00-1:30pm Szilard Pafka various topics (going beyond his meetup/conference talks) <br>
-1:30-1:50pm Damien Soukhavong various performance topics <br>
-1:50-2:00pm Przemyslaw Biecek interpretability <br>
-2:10-2:20 pm Gergely Daroczi GBMs in production <br>
-2:20-2:30pm open discussions <br>
-2:30-2:50pm break <br>
-2:50-3:50pm contributed lightning talks (6) <br>
-3:50-4:00pm open discussions, closing remarks 
+Planned agenda: <br>
+* 1:00-1:30pm Szilard Pafka on various topics (going beyond his meetup/conference talks) <br>
+* 1:30-1:50pm Damien Soukhavong on various performance topics <br>
+* 1:50-2:00pm Przemyslaw Biecek on interpretability <br>
+* 2:10-2:20pm Gergely Daroczi on using GBMs in production <br>
+* 2:20-2:30pm open discussions <br>
+* 2:30-2:50pm coffee break <br>
+* 2:50-3:50pm 6 contributed lightning talks from Gyorgy Mora, András Nagy, Dávid Gyurkó, Alex Trickey, Eszter Windhager-Pokol and Gabor Bekes <br>
+* 3:50-4:00pm open discussions, closing remarks <br>
+* 4:00-x:00pm informal (pay your own) dinner and drinks
 
 Organizers: Gergely Daroczi & Szilard Pafka

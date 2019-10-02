@@ -10,10 +10,10 @@ In order to make the discussion effective, we need to limit participation to 10-
 
 Date: Nov 12, 2019 (Tuesday)
 Time: 1:00-4:00pm
-Venue: Budapest BI Forum (https://budapestbiforum.hu) at Hotel Mercure Buda
+Venue: Budapest BI Forum at Hotel Mercure Buda
 Ticket: FREE, no need to purchase a conference ticket (although you may still want to do that to attend the other talks of the conference)
 
-Application form for the advanced workshop on GBMs with Szilard Pafka
+~~Application form for the advanced workshop on GBMs with Szilard Pafka~~
 
 APPLICATION DEADLINE: October 1, 2019, 10:00am CET
 

@@ -30,6 +30,6 @@ If selected, you will have to subsequently confirm and agree to show up at the l
 * 2:30-2:50pm coffee break 
 * 2:50-3:50pm 6 contributed lightning talks from Gyorgy Mora, András Nagy, Dávid Gyurkó, Alex Trickey, Eszter Windhager-Pokol and Gabor Bekes 
 * 3:50-4:00pm open discussions, closing remarks 
-* 4:00-x:00pm informal (pay your own) dinner and drinks
+* 4:00-7:00pm informal (pay your own) dinner and drinks
 
 Organizers: Gergely Daroczi & Szilard Pafka

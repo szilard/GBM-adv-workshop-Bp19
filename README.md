@@ -26,9 +26,9 @@ If selected, you will have to subsequently confirm and agree to show up at the l
 * 1:10-1:40pm Szilard Pafka on various topics (going beyond his meetup/conference talks)
 * 1:40-2:00pm Damien Soukhavong on various performance topics
 * 2:00-2:10pm Przemyslaw Biecek on interpretability
-* 2:10-2:20pm Gergely Daroczi on using GBMs in production
-* 2:20-2:30pm open discussions
-* 2:30-2:50pm coffee break 
+* 2:10-2:20pm open discussions
+* 2:20-2:40pm coffee break 
+* 2:40-2:50pm Gergely Daroczi on using GBMs in production
 * 2:50-3:50pm 6 contributed lightning talks from Gyorgy Mora, András Nagy, Dávid Gyurkó, Alex Trickey, Eszter Windhager-Pokol and Gabor Bekes 
 * 3:50-4:00pm open discussions, closing remarks 
 * 4:00-7:00pm informal (pay your own) dinner and drinks

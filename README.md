@@ -29,7 +29,7 @@ If selected, you will have to subsequently confirm and agree to show up at the l
 * 2:10-2:20pm open discussions
 * 2:20-2:40pm coffee break 
 * 2:40-2:50pm Gergely Daroczi on using GBMs in production
-* 2:50-3:50pm 6 contributed lightning talks from Gyorgy Mora, András Nagy, Dávid Gyurkó, Alex Trickey, Eszter Windhager-Pokol and Gabor Bekes 
+* 2:50-3:50pm 6 contributed lightning talks from Gabor Bekes, Alex Trickey, Eszter Windhager-Pokol, Gyorgy Mora, András Nagy, Dávid Gyurkó
 * 3:50-4:00pm open discussions, closing remarks 
 * 4:00-7:00pm informal (pay your own) dinner and drinks
 

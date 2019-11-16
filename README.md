@@ -42,7 +42,7 @@ The slides from some of the talks from the workshop are available
 
 Here is a pic from the workshop:
 
-![workshop](pics/ws.jpeg)
+![workshop](pics/ws.jpg)
 
 and the networking we continued in a restaurant nearby:
 

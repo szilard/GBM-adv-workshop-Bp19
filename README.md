@@ -34,3 +34,17 @@ If selected, you will have to subsequently confirm and agree to show up at the l
 * 4:00-7:00pm informal (pay your own) dinner and drinks
 
 Organizers: Gergely Daroczi & Szilard Pafka
+
+### Update:
+
+The slides from some of the talks from the workshop are available 
+[here](slides).
+
+Here is a pic from the workshop:
+
+![workshop](pics/ws.jpeg)
+
+and the networking we continued in a restaurant nearby:
+
+
+

@@ -37,7 +37,7 @@ Organizers: Gergely Daroczi & Szilard Pafka
 
 ### Update:
 
-The slides from some of the talks from the workshop are available 
+The slides from (some of) the talks from the workshop are available 
 [here](slides).
 
 Here is a pic from the workshop:
@@ -46,5 +46,6 @@ Here is a pic from the workshop:
 
 and the networking we continued in a restaurant nearby:
 
+![beer](pics/beer.jpg)
 
 
